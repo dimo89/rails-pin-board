@@ -9,6 +9,7 @@ gem 'tzinfo-data' #unix/windows timezone issue
 gem 'haml'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'paperclip', '~> 5.1'
 gem 'turbolinks'
 gem 'devise'
 gem 'jbuilder', '~> 2.0'
