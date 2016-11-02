@@ -12,6 +12,7 @@ gem 'masonry-rails', '~> 0.2.4'
 gem 'simple_form'
 gem 'paperclip', '~> 5.1'
 gem 'turbolinks'
+gem 'acts_as_votable', '~> 0.10.0'
 gem 'devise'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
