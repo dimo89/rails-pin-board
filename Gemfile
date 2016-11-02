@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'tzinfo-data' #unix/windows timezone issue
 gem 'haml'
 gem 'bootstrap-sass'
+gem 'masonry-rails', '~> 0.2.4'
 gem 'simple_form'
 gem 'paperclip', '~> 5.1'
 gem 'turbolinks'
